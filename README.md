@@ -1,5 +1,4 @@
 # 2D RPG Game
-Landing page: https://InlaidData.github.io/Pages
 
 # Run the Game
 - Navigate to: GameProject\RPG_Game\Builds\
